@@ -69,4 +69,8 @@ public class EjemploFunciones {
         return 0;
     }
     
+    public static double cuadrado(double valor1){
+        return valor1 * valor1;
+    }
+    
 }
